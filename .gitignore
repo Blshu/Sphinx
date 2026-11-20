@@ -1,0 +1,9 @@
+bin/
+obj/
+iso_root/
+limine-binary/
+*.iso
+*.tar.gz
+*.o
+*.d
+todo
